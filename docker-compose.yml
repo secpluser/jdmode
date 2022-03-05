@@ -1,0 +1,16 @@
+version: "3.0"
+services:
+  jdmode:
+    image: mixool/jdmode
+    container_name: jdmode
+    restart: always
+    volumes:
+     - ./config:/jd/config
+     - ./log:/jd/log
+     - ./tmp:/jd/tmp
+     - ./scripts:/jd/scripts
+    environment: 
+     - CUSTOM_SHELL_FILE=https://raw.githubusercontent.com/secpluser/jdmode/main/jd.sh
+     - TG_BOT_TOKEN=14*******************Q2Y
+     - TG_USER_ID=1*********6
+     - NOTHING=1111111111111111111111111111111111111111111111111111111111111111111111111111111111
