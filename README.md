@@ -1,5 +1,6 @@
 > DIY IS BEST
   
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/secpluser/jdmode)  
 #### 部署
 * docker docker-compose安装
 ```bash

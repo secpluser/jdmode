@@ -1,0 +1,18 @@
+{
+    "name": "jdmode",
+    "description": "jdmode",
+    "keywords": ["jdmode"],
+    "env": {
+        "AA": {
+            "description": "初阶用户只需点击页面最后的Deploy app按钮即可开始部署",
+            "value": "如出现错误，请检查参数格式或多尝试几次。使用自定义参数请务必先充分理解其含义"
+        },
+        "CUSTOM_SHELL_FILE": {
+            "description": "建议修改和妥善保存",
+            "value": "https://raw.githubusercontent.com/secpluser/jdmode/main/jd.sh"
+        }
+    },
+    "website": "https://github.com/secpluser/jdmode",
+    "repository": "https://github.com/secpluser/jdmode",
+    "stack": "container"
+}
