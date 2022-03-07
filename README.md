@@ -35,7 +35,7 @@ cd /jdmode && docker-compose restart jdmode
 #### Tips:
 * [jd.sh](https://github.com/tdcnull/jdmode/blob/main/jd.sh) 脚本仅供参考,修改cknode部分 自定义变量 内置助力码 后再使用即可助力自己账号
 * 目前内置基础仓库为：https://github.com/Aaron-lv/sync
-* 如项目中有侵犯到你的合法权益的代码,请发issues要求删除  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/secpluser/jdmode)  
+* 如项目中有侵犯到你的合法权益的代码,请发issues[要求删除](https://dashboard.heroku.com/new?template=https://github.com/secpluser/jdmode)  
   
 #### Thanks:
 * [lxk0301/jd_docker](https://gitee.com/lxk0301/jd_docker)
